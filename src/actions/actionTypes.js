@@ -1,0 +1,2 @@
+export const FETCH_HEROES_LIST = 'FETCH_HEROES_LIST';
+export const ADD_HEROES = 'ADD_HEROES';
